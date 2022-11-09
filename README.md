@@ -37,7 +37,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; TypeScript
+- 🔧 &nbsp; TypeScript | C++
 
 <hr>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lucas-macchi-a02956233//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Macchi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/martin-m-b00955125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Macchi-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:lucasmacchi25@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucasmacchi25@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
